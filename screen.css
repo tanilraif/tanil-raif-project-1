@@ -53,3 +53,6 @@ table {
 h1 { font-size: 2em;
 	padding: .25em;
 }
+p {
+	padding-bottom: .5em;
+}
