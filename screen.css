@@ -56,3 +56,5 @@ h1 { font-size: 2em;
 p {
 	padding-bottom: .5em;
 }
+
+p { color: red; }
