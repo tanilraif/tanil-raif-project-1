@@ -54,7 +54,8 @@ h1 { font-size: 2em;
 	padding: .25em;
 }
 p {
+	
+	color: red;
+
 	padding-bottom: .5em;
 }
-
-p { color: red; }
