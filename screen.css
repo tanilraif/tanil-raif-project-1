@@ -52,8 +52,12 @@ table {
 
 h1 { font-size: 2em;
 	padding: .25em;
+
 }
 p {
-
+color: grey;
 	padding-bottom: .5em;
+}
+.image-me {
+	width: 350px;
 }
