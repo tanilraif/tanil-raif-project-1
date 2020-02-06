@@ -50,14 +50,26 @@ table {
 
 /* Add custom styles below... */
 
-h1 { font-size: 2em;
+
+h1 {
+
+
+	font-size: 3em;
 	padding: .25em;
+	text-align: center;
+}
+
+p { font-size: 25px;
+line-height: 30px;
+font-family: arial
+color: grey;
+padding-bottom: 0.5em;
+hyphens: auto;
 
 }
-p {
-color: grey;
-	padding-bottom: .5em;
-}
+
+
+
 .image-me {
 	width: 350px;
 
