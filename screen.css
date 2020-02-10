@@ -62,14 +62,19 @@ h1 {
 p { font-size: 25px;
 line-height: 30px;
 font-family: arial
-padding-bottom: 0.5em;
+
 text-align: justify;
 hyphens: auto;
 color: grey;
 padding-right: 2em;
 padding-left: 2em;
+padding-bottom: 1em;
+padding-top: 1em;
 
 }
+
+
+
 
 
 
@@ -78,8 +83,9 @@ padding-left: 2em;
 	width: 360px;
 	margin-left: auto;
 	margin-right: auto;
-	padding-top: 2em;
-	padding-bottom: 2em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+
 
 }
 
@@ -89,8 +95,9 @@ padding-left: 2em;
 	max-width: 1200px ;
 	margin-left: auto;
 	margin-right: auto;
-	padding-top: 2em;
-	padding-bottom: 2em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+
 
 }
 
@@ -101,7 +108,8 @@ padding-left: 2em;
 	max-width: 1200px ;
 	margin-left: auto;
 	margin-right: auto;
-	padding-top: 2em;
-	padding-bottom: 2em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+
 
 }
